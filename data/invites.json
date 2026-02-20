@@ -1,0 +1,19 @@
+[
+    {
+        "id": "inv_6997a244d6745",
+        "from_id": "user_6997a184a1518",
+        "from_name": "Zosss",
+        "to_id": "user_69979f6c55590",
+        "status": "pending",
+        "timestamp": 1771545156
+    },
+    {
+        "id": "inv_6997af5fd2f58",
+        "from_id": "user_6997af5b06b49",
+        "from_name": "Do bandit iow ",
+        "to_id": "user_6997ad1b5a31f",
+        "game_id": "game_6997af5fd246b",
+        "status": "pending",
+        "timestamp": 1771548511
+    }
+]

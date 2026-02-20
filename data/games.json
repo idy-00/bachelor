@@ -1,0 +1,64 @@
+{
+    "game_6997a4710ae84": {
+        "id": "game_6997a4710ae84",
+        "players": {
+            "user_6997a44ce7d10": {
+                "score": 0,
+                "answers": [],
+                "status": "ready"
+            },
+            "user_6997a460a797a": {
+                "score": 0,
+                "answers": [],
+                "status": "ready"
+            }
+        },
+        "state": "evaluating",
+        "current_round": 0,
+        "total_rounds": 10,
+        "current_letter": "A",
+        "letters_done": [],
+        "timer_start": 1771545713,
+        "round_duration": 60
+    },
+    "game_6997aab687698": {
+        "id": "game_6997aab687698",
+        "players": {
+            "user_6997aaa46b74b": {
+                "score": 3.5,
+                "answers": [],
+                "status": "ready"
+            },
+            "user_6997aaaf342b6": {
+                "score": 0,
+                "answers": [],
+                "status": "submitted"
+            }
+        },
+        "state": "evaluating",
+        "current_round": 1,
+        "total_rounds": 10,
+        "current_letter": "B",
+        "letters_done": [],
+        "timer_start": 1771547384,
+        "round_duration": 60
+    },
+    "game_6997af5fd246b": {
+        "id": "game_6997af5fd246b",
+        "host_id": "user_6997af5b06b49",
+        "players": {
+            "user_6997af5b06b49": {
+                "score": 0,
+                "answers": [],
+                "status": "ready",
+                "name": "Do bandit iow "
+            }
+        },
+        "state": "lobby",
+        "current_round": 0,
+        "total_rounds": 10,
+        "current_letter": "A",
+        "timer_start": 0,
+        "round_duration": 60
+    }
+}
