@@ -87,14 +87,14 @@ session_start();
                         <path class="circle-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
                         <path class="circle" stroke-dasharray="100, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
                     </svg>
-                    <span id="time-left">60</span>s
+                    <span id="time-left">60</span>
                 </div>
                 <div class="letter-display">
-                    Lettre actuelle
                     <span id="current-letter">?</span>
+                    <span class="round-info">Tour <span id="round-counter">1 / 10</span></span>
                 </div>
                 <div class="score-display">
-                    Score: <span id="current-score">0</span>
+                    Score : <span id="current-score">0</span>
                 </div>
             </div>
 

@@ -60,5 +60,112 @@
         "current_letter": "A",
         "timer_start": 0,
         "round_duration": 60
+    },
+    "game_69a1c1efacaac": {
+        "id": "game_69a1c1efacaac",
+        "host_id": "user_69a1c12cd07eb",
+        "players": {
+            "user_69a1c12cd07eb": {
+                "score": 12,
+                "answers": [],
+                "status": "ready",
+                "name": "idy"
+            },
+            "user_69a1c13448831": {
+                "score": 10.5,
+                "answers": [],
+                "status": "ready",
+                "name": "Escanor"
+            }
+        },
+        "state": "playing",
+        "current_round": 4,
+        "total_rounds": 10,
+        "current_letter": "E",
+        "timer_start": 1772208900,
+        "round_duration": 60
+    },
+    "game_69a1c4fff154e": {
+        "id": "game_69a1c4fff154e",
+        "host_id": "user_69a1c4fa304c1",
+        "players": {
+            "user_69a1c4fa304c1": {
+                "score": 15,
+                "answers": [],
+                "status": "ready",
+                "name": "azerty"
+            },
+            "user_69a1c4e8c4641": {
+                "score": 14.5,
+                "answers": [],
+                "status": "ready",
+                "name": "Moustapha"
+            },
+            "user_69a1c4efc104d": {
+                "score": 9.5,
+                "answers": [],
+                "status": "ready",
+                "name": "escanor"
+            }
+        },
+        "state": "round_transition",
+        "current_round": 4,
+        "total_rounds": 10,
+        "current_letter": "D",
+        "timer_start": 1772209753,
+        "round_duration": 60
+    },
+    "game_69f5f906bce1d": {
+        "id": "game_69f5f906bce1d",
+        "host_id": "user_69f5f90228ab4",
+        "players": {
+            "user_69f5f90228ab4": {
+                "score": 4,
+                "answers": [],
+                "status": "ready",
+                "name": "ma sithiou"
+            },
+            "user_69f5f7d6cea58": {
+                "score": 5.5,
+                "answers": [],
+                "status": "left",
+                "name": "bitch (Abandon)"
+            }
+        },
+        "state": "finished",
+        "current_round": 4,
+        "total_rounds": 5,
+        "current_letter": "E",
+        "timer_start": 1777728041,
+        "round_duration": 60
+    },
+    "game_69f5fcf34e8b9": {
+        "id": "game_69f5fcf34e8b9",
+        "host_id": "user_69f5f7d6cea58",
+        "players": {
+            "user_69f5f7d6cea58": {
+                "score": 0.5,
+                "answers": [],
+                "status": "left",
+                "name": "bitch (Abandon)"
+            },
+            "user_69f5fa41a0fed": {
+                "score": 2.5,
+                "answers": [],
+                "status": "ready",
+                "name": "b"
+            }
+        },
+        "state": "finished",
+        "current_round": 3,
+        "total_rounds": 3,
+        "current_letter": "N",
+        "letters_sequence": [
+            "Z",
+            "X",
+            "N"
+        ],
+        "timer_start": 1777728899,
+        "round_duration": 60
     }
 }
